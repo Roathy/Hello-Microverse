@@ -2,7 +2,7 @@
 Welcome to the README.md file for "Hello-Microverse" - a simple HTML and CSS website.
 
 ## About the Project
-The Hello-Microverse project is a simple website built with HTML and CSS.
+The Hello-Microverse project is a simple website.
 
 ## Built With
 The Hello-Microverse project is built using the following technologies:
@@ -51,6 +51,7 @@ The following features may be added to The Hello-Microverse project in the futur
 Custom fonts
 Custom colors
 Custom animations
+Responsive design
 
 ## Contributing
 Contributions to The Hello-Microverse project are always welcome. To contribute, follow these steps:
