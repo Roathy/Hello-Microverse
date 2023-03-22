@@ -11,9 +11,9 @@ CSS
 
 ## Key Features
 The Hello-Microverse project comes with the following features:
-.html file that includes a header with the text "Hello Microverse!".
-.css file that includes one class with styles for the header .
-test.md file.
+### -.html file that includes a header with the text "Hello Microverse!".
+### -.css file that includes one class with styles for the header .
+### -test.md file.
 
 
 ## Live Demo
@@ -48,10 +48,10 @@ The Hello-Microverse project was created by Julio Eduardo Vergara Martínez.
 
 ## Future Features
 The following features may be added to The Hello-Microverse project in the future:
-Custom fonts
-Custom colors
-Custom animations
-Responsive design
+### -Custom fonts
+### -Custom colors
+### -Custom animations
+### -Responsive design
 
 ## Contributing
 Contributions to The Hello-Microverse project are always welcome. To contribute, follow these steps:
